@@ -49,3 +49,7 @@ pnpm add astro-breadcrumbs
 ## 📖 Documentation
 
 Please visit the [documentation](https://docs.astro-breadcrumbs.kasimir.dev/) for detailed information about all features and styling.
+
+## Sponsors
+
+Thanks to [TopBookiesUK](https://topbookiesuk.net/) for their help sponsoring this forked project.
